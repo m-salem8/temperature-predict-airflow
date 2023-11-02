@@ -1,0 +1,23 @@
+[2023-10-12 17:36:09,430] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.train_best_model 2023-10-12T17:35:00+00:00 [queued]>
+[2023-10-12 17:36:09,449] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.train_best_model 2023-10-12T17:35:00+00:00 [queued]>
+[2023-10-12 17:36:09,449] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2023-10-12 17:36:09,450] {taskinstance.py:1088} INFO - Starting attempt 1 of 1
+[2023-10-12 17:36:09,450] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2023-10-12 17:36:09,521] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): train_best_model> on 2023-10-12T17:35:00+00:00
+[2023-10-12 17:36:09,530] {standard_task_runner.py:52} INFO - Started process 1419 to run task
+[2023-10-12 17:36:09,534] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', '***_exam', 'train_best_model', '2023-10-12T17:35:00+00:00', '--job-id', '1624', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmpaauuyb7d', '--error-file', '/tmp/tmprpfj3yj4']
+[2023-10-12 17:36:09,535] {standard_task_runner.py:77} INFO - Job 1624: Subtask train_best_model
+[2023-10-12 17:36:09,578] {logging_mixin.py:104} INFO - Running <TaskInstance: ***_exam.train_best_model 2023-10-12T17:35:00+00:00 [running]> on host 3a3d0401ac26
+[2023-10-12 17:36:09,639] {taskinstance.py:1302} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=***_exam
+AIRFLOW_CTX_TASK_ID=train_best_model
+AIRFLOW_CTX_EXECUTION_DATE=2023-10-12T17:35:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-10-12T17:35:00+00:00
+[2023-10-12 17:36:09,746] {logging_mixin.py:104} INFO - LinearRegression() saved at  /app/clean_data/best_model.pickle
+[2023-10-12 17:36:09,747] {python.py:151} INFO - Done. Returned value was: None
+[2023-10-12 17:36:09,759] {taskinstance.py:1211} INFO - Marking task as SUCCESS. dag_id=***_exam, task_id=train_best_model, execution_date=20231012T173500, start_date=20231012T173609, end_date=20231012T173609
+[2023-10-12 17:36:09,790] {taskinstance.py:1265} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-10-12 17:36:09,826] {local_task_job.py:151} INFO - Task exited with return code 0

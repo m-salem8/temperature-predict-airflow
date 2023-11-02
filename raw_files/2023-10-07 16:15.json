@@ -1,0 +1,134 @@
+{
+    "Paris": {
+        "coord": {
+            "lon": 2.3488,
+            "lat": 48.8534
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.78,
+            "feels_like": 297.55,
+            "temp_min": 295.25,
+            "temp_max": 299.29,
+            "pressure": 1026,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 240
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1696695128,
+        "sys": {
+            "type": 2,
+            "id": 2041230,
+            "country": "FR",
+            "sunrise": 1696658284,
+            "sunset": 1696699127
+        },
+        "timezone": 7200,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    "London": {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.24,
+            "feels_like": 296.12,
+            "temp_min": 293.87,
+            "temp_max": 297.6,
+            "pressure": 1023,
+            "humidity": 58
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 250
+        },
+        "clouds": {
+            "all": 95
+        },
+        "dt": 1696695155,
+        "sys": {
+            "type": 2,
+            "id": 268730,
+            "country": "GB",
+            "sunrise": 1696659008,
+            "sunset": 1696699590
+        },
+        "timezone": 3600,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    },
+    "Washington": {
+        "coord": {
+            "lon": -120.5015,
+            "lat": 47.5001
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 283.37,
+            "feels_like": 282.07,
+            "temp_min": 283.37,
+            "temp_max": 283.37,
+            "pressure": 1019,
+            "humidity": 62,
+            "sea_level": 1019,
+            "grnd_level": 962
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.17,
+            "deg": 347,
+            "gust": 1.11
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1696695303,
+        "sys": {
+            "type": 1,
+            "id": 3917,
+            "country": "US",
+            "sunrise": 1696687735,
+            "sunset": 1696728631
+        },
+        "timezone": -25200,
+        "id": 5815135,
+        "name": "Washington",
+        "cod": 200
+    }
+}

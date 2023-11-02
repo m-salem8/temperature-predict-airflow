@@ -1,0 +1,704 @@
+[2023-10-07 13:24:18,405] {scheduler_job.py:182} INFO - Started process (PID=58) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:18,408] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:24:18,409] {logging_mixin.py:104} INFO - [2023-10-07 13:24:18,409] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:21,716] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:21,970] {logging_mixin.py:104} INFO - [2023-10-07 13:24:21,968] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:24:21,986] {logging_mixin.py:104} INFO - [2023-10-07 13:24:21,986] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:24:00+00:00
+[2023-10-07 13:24:22,001] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 3.607 seconds
+[2023-10-07 13:24:52,104] {scheduler_job.py:182} INFO - Started process (PID=156) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:52,105] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:24:52,106] {logging_mixin.py:104} INFO - [2023-10-07 13:24:52,106] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:53,242] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:24:53,264] {logging_mixin.py:104} INFO - [2023-10-07 13:24:53,262] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:24:53,280] {logging_mixin.py:104} INFO - [2023-10-07 13:24:53,279] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:24:00+00:00
+[2023-10-07 13:24:53,290] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.188 seconds
+[2023-10-07 13:27:03,818] {scheduler_job.py:182} INFO - Started process (PID=60) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:03,820] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:27:03,822] {logging_mixin.py:104} INFO - [2023-10-07 13:27:03,821] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:06,552] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:06,574] {logging_mixin.py:104} INFO - [2023-10-07 13:27:06,573] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:27:06,592] {logging_mixin.py:104} INFO - [2023-10-07 13:27:06,591] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:27:00+00:00
+[2023-10-07 13:27:06,603] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 2.790 seconds
+[2023-10-07 13:27:36,728] {scheduler_job.py:182} INFO - Started process (PID=144) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:36,729] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:27:36,729] {logging_mixin.py:104} INFO - [2023-10-07 13:27:36,729] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:37,930] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:27:37,950] {logging_mixin.py:104} INFO - [2023-10-07 13:27:37,948] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:27:37,972] {logging_mixin.py:104} INFO - [2023-10-07 13:27:37,972] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:27:00+00:00
+[2023-10-07 13:27:37,981] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.255 seconds
+[2023-10-07 13:28:08,032] {scheduler_job.py:182} INFO - Started process (PID=228) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:08,032] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:28:08,033] {logging_mixin.py:104} INFO - [2023-10-07 13:28:08,033] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:09,127] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:09,146] {logging_mixin.py:104} INFO - [2023-10-07 13:28:09,145] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:28:09,161] {logging_mixin.py:104} INFO - [2023-10-07 13:28:09,161] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:28:00+00:00
+[2023-10-07 13:28:09,171] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.141 seconds
+[2023-10-07 13:28:39,221] {scheduler_job.py:182} INFO - Started process (PID=324) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:39,222] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:28:39,222] {logging_mixin.py:104} INFO - [2023-10-07 13:28:39,222] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:40,375] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:28:40,394] {logging_mixin.py:104} INFO - [2023-10-07 13:28:40,393] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:28:40,409] {logging_mixin.py:104} INFO - [2023-10-07 13:28:40,409] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:28:00+00:00
+[2023-10-07 13:28:40,420] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.201 seconds
+[2023-10-07 13:29:11,338] {scheduler_job.py:182} INFO - Started process (PID=400) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 13:29:11,339] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 13:29:11,340] {logging_mixin.py:104} INFO - [2023-10-07 13:29:11,340] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 13:29:13,009] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 13:29:13,030] {logging_mixin.py:104} INFO - [2023-10-07 13:29:13,029] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 13:29:13,046] {logging_mixin.py:104} INFO - [2023-10-07 13:29:13,046] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T13:29:00+00:00
+[2023-10-07 13:29:13,057] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.721 seconds
+[2023-10-07 15:25:55,908] {scheduler_job.py:182} INFO - Started process (PID=59) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:25:55,910] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:25:55,911] {logging_mixin.py:104} INFO - [2023-10-07 15:25:55,911] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:25:58,901] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:25:58,925] {logging_mixin.py:104} INFO - [2023-10-07 15:25:58,924] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:25:58,943] {logging_mixin.py:104} INFO - [2023-10-07 15:25:58,942] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:25:00+00:00
+[2023-10-07 15:25:58,956] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 3.056 seconds
+[2023-10-07 15:26:29,088] {scheduler_job.py:182} INFO - Started process (PID=143) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:26:29,089] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:26:29,090] {logging_mixin.py:104} INFO - [2023-10-07 15:26:29,090] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:26:30,444] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:26:30,475] {scheduler_job.py:600} INFO - Executed failure callback for <TaskInstance: airflow_exam.retrieve_raw_data 2023-10-07 13:25:00+00:00 [up_for_retry]> in state up_for_retry
+[2023-10-07 15:26:30,485] {scheduler_job.py:600} INFO - Executed failure callback for <TaskInstance: airflow_exam.retrieve_raw_data 2023-10-07 13:26:00+00:00 [up_for_retry]> in state up_for_retry
+[2023-10-07 15:26:30,496] {scheduler_job.py:600} INFO - Executed failure callback for <TaskInstance: airflow_exam.retrieve_raw_data 2023-10-07 13:27:00+00:00 [up_for_retry]> in state up_for_retry
+[2023-10-07 15:26:30,507] {scheduler_job.py:600} INFO - Executed failure callback for <TaskInstance: airflow_exam.retrieve_raw_data 2023-10-07 13:28:00+00:00 [up_for_retry]> in state up_for_retry
+[2023-10-07 15:26:30,519] {logging_mixin.py:104} INFO - [2023-10-07 15:26:30,518] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:26:30,535] {logging_mixin.py:104} INFO - [2023-10-07 15:26:30,535] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:26:00+00:00
+[2023-10-07 15:26:30,547] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.462 seconds
+[2023-10-07 15:27:01,171] {scheduler_job.py:182} INFO - Started process (PID=242) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:01,172] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:27:01,173] {logging_mixin.py:104} INFO - [2023-10-07 15:27:01,173] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:02,316] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:02,334] {logging_mixin.py:104} INFO - [2023-10-07 15:27:02,333] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:27:02,350] {logging_mixin.py:104} INFO - [2023-10-07 15:27:02,349] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:27:00+00:00
+[2023-10-07 15:27:02,361] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.194 seconds
+[2023-10-07 15:27:32,710] {scheduler_job.py:182} INFO - Started process (PID=322) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:32,711] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:27:32,712] {logging_mixin.py:104} INFO - [2023-10-07 15:27:32,712] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:34,152] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:27:34,179] {logging_mixin.py:104} INFO - [2023-10-07 15:27:34,178] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:27:34,204] {logging_mixin.py:104} INFO - [2023-10-07 15:27:34,203] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:27:00+00:00
+[2023-10-07 15:27:34,221] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.513 seconds
+[2023-10-07 15:28:04,874] {scheduler_job.py:182} INFO - Started process (PID=413) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:04,875] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:28:04,876] {logging_mixin.py:104} INFO - [2023-10-07 15:28:04,876] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:06,007] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:06,026] {logging_mixin.py:104} INFO - [2023-10-07 15:28:06,025] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:28:06,041] {logging_mixin.py:104} INFO - [2023-10-07 15:28:06,041] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:28:00+00:00
+[2023-10-07 15:28:06,052] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.180 seconds
+[2023-10-07 15:28:36,113] {scheduler_job.py:182} INFO - Started process (PID=497) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:36,114] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:28:36,115] {logging_mixin.py:104} INFO - [2023-10-07 15:28:36,115] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:37,246] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:28:37,264] {logging_mixin.py:104} INFO - [2023-10-07 15:28:37,263] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:28:37,278] {logging_mixin.py:104} INFO - [2023-10-07 15:28:37,277] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:28:00+00:00
+[2023-10-07 15:28:37,289] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.178 seconds
+[2023-10-07 15:29:07,320] {scheduler_job.py:182} INFO - Started process (PID=571) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:07,321] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:29:07,321] {logging_mixin.py:104} INFO - [2023-10-07 15:29:07,321] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:08,499] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:08,522] {logging_mixin.py:104} INFO - [2023-10-07 15:29:08,521] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:29:08,537] {logging_mixin.py:104} INFO - [2023-10-07 15:29:08,537] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:29:00+00:00
+[2023-10-07 15:29:08,549] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.231 seconds
+[2023-10-07 15:29:39,176] {scheduler_job.py:182} INFO - Started process (PID=655) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:39,177] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:29:39,177] {logging_mixin.py:104} INFO - [2023-10-07 15:29:39,177] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:40,242] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:29:40,262] {logging_mixin.py:104} INFO - [2023-10-07 15:29:40,261] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:29:40,277] {logging_mixin.py:104} INFO - [2023-10-07 15:29:40,277] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:29:00+00:00
+[2023-10-07 15:29:40,287] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.113 seconds
+[2023-10-07 15:30:11,148] {scheduler_job.py:182} INFO - Started process (PID=729) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:11,149] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:30:11,149] {logging_mixin.py:104} INFO - [2023-10-07 15:30:11,149] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:12,228] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:12,250] {logging_mixin.py:104} INFO - [2023-10-07 15:30:12,249] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:30:12,266] {logging_mixin.py:104} INFO - [2023-10-07 15:30:12,266] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:30:00+00:00
+[2023-10-07 15:30:12,278] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.132 seconds
+[2023-10-07 15:30:42,467] {scheduler_job.py:182} INFO - Started process (PID=813) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:42,469] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:30:42,471] {logging_mixin.py:104} INFO - [2023-10-07 15:30:42,471] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:44,647] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:30:44,674] {logging_mixin.py:104} INFO - [2023-10-07 15:30:44,672] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:30:44,697] {logging_mixin.py:104} INFO - [2023-10-07 15:30:44,696] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:30:00+00:00
+[2023-10-07 15:30:44,710] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 2.245 seconds
+[2023-10-07 15:31:14,766] {scheduler_job.py:182} INFO - Started process (PID=897) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:14,767] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:31:14,768] {logging_mixin.py:104} INFO - [2023-10-07 15:31:14,768] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:16,394] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:16,415] {logging_mixin.py:104} INFO - [2023-10-07 15:31:16,414] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:31:16,433] {logging_mixin.py:104} INFO - [2023-10-07 15:31:16,433] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:31:00+00:00
+[2023-10-07 15:31:16,446] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.682 seconds
+[2023-10-07 15:31:46,682] {scheduler_job.py:182} INFO - Started process (PID=971) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:46,684] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:31:46,686] {logging_mixin.py:104} INFO - [2023-10-07 15:31:46,686] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:48,928] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:31:48,963] {logging_mixin.py:104} INFO - [2023-10-07 15:31:48,961] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:31:48,986] {logging_mixin.py:104} INFO - [2023-10-07 15:31:48,986] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:31:00+00:00
+[2023-10-07 15:31:49,001] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 2.329 seconds
+[2023-10-07 15:32:19,245] {scheduler_job.py:182} INFO - Started process (PID=1054) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:19,246] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:32:19,247] {logging_mixin.py:104} INFO - [2023-10-07 15:32:19,247] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:20,809] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:20,867] {logging_mixin.py:104} INFO - [2023-10-07 15:32:20,865] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:32:20,890] {logging_mixin.py:104} INFO - [2023-10-07 15:32:20,890] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:32:00+00:00
+[2023-10-07 15:32:20,903] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.661 seconds
+[2023-10-07 15:32:51,855] {scheduler_job.py:182} INFO - Started process (PID=1129) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:51,856] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:32:51,857] {logging_mixin.py:104} INFO - [2023-10-07 15:32:51,857] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:53,045] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:32:53,072] {logging_mixin.py:104} INFO - [2023-10-07 15:32:53,071] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:32:53,090] {logging_mixin.py:104} INFO - [2023-10-07 15:32:53,090] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:32:00+00:00
+[2023-10-07 15:32:53,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.251 seconds
+[2023-10-07 15:33:24,029] {scheduler_job.py:182} INFO - Started process (PID=1214) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:24,030] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:33:24,031] {logging_mixin.py:104} INFO - [2023-10-07 15:33:24,031] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:25,257] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:25,280] {logging_mixin.py:104} INFO - [2023-10-07 15:33:25,278] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:33:25,295] {logging_mixin.py:104} INFO - [2023-10-07 15:33:25,295] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:33:00+00:00
+[2023-10-07 15:33:25,309] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.282 seconds
+[2023-10-07 15:33:55,867] {scheduler_job.py:182} INFO - Started process (PID=1288) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:55,868] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:33:55,868] {logging_mixin.py:104} INFO - [2023-10-07 15:33:55,868] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:57,130] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:33:57,152] {logging_mixin.py:104} INFO - [2023-10-07 15:33:57,150] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:33:57,168] {logging_mixin.py:104} INFO - [2023-10-07 15:33:57,168] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:33:00+00:00
+[2023-10-07 15:33:57,180] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.316 seconds
+[2023-10-07 15:34:27,240] {scheduler_job.py:182} INFO - Started process (PID=1372) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:34:27,241] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:34:27,241] {logging_mixin.py:104} INFO - [2023-10-07 15:34:27,241] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:34:28,358] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:34:28,381] {logging_mixin.py:104} INFO - [2023-10-07 15:34:28,379] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:34:28,398] {logging_mixin.py:104} INFO - [2023-10-07 15:34:28,398] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:34:00+00:00
+[2023-10-07 15:34:28,413] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.175 seconds
+[2023-10-07 15:34:59,207] {scheduler_job.py:182} INFO - Started process (PID=1456) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:34:59,208] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:34:59,209] {logging_mixin.py:104} INFO - [2023-10-07 15:34:59,208] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:35:00,416] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:35:00,436] {logging_mixin.py:104} INFO - [2023-10-07 15:35:00,435] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:35:00,453] {logging_mixin.py:104} INFO - [2023-10-07 15:35:00,453] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:34:00+00:00
+[2023-10-07 15:35:00,465] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.260 seconds
+[2023-10-07 15:35:31,024] {scheduler_job.py:182} INFO - Started process (PID=1530) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:35:31,025] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:35:31,025] {logging_mixin.py:104} INFO - [2023-10-07 15:35:31,025] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:35:32,195] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:35:32,217] {logging_mixin.py:104} INFO - [2023-10-07 15:35:32,216] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:35:32,233] {logging_mixin.py:104} INFO - [2023-10-07 15:35:32,233] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:35:00+00:00
+[2023-10-07 15:35:32,245] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.224 seconds
+[2023-10-07 15:36:02,736] {scheduler_job.py:182} INFO - Started process (PID=1614) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:02,736] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:36:02,737] {logging_mixin.py:104} INFO - [2023-10-07 15:36:02,737] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:03,842] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:03,867] {logging_mixin.py:104} INFO - [2023-10-07 15:36:03,866] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:36:03,884] {logging_mixin.py:104} INFO - [2023-10-07 15:36:03,884] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:35:00+00:00
+[2023-10-07 15:36:03,896] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.163 seconds
+[2023-10-07 15:36:34,500] {scheduler_job.py:182} INFO - Started process (PID=1698) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:34,501] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:36:34,502] {logging_mixin.py:104} INFO - [2023-10-07 15:36:34,502] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:35,854] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:36:35,879] {logging_mixin.py:104} INFO - [2023-10-07 15:36:35,878] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:36:35,897] {logging_mixin.py:104} INFO - [2023-10-07 15:36:35,897] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:35:00+00:00
+[2023-10-07 15:36:35,911] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.413 seconds
+[2023-10-07 15:37:06,865] {scheduler_job.py:182} INFO - Started process (PID=1775) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:06,865] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:37:06,866] {logging_mixin.py:104} INFO - [2023-10-07 15:37:06,866] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:08,386] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:08,410] {logging_mixin.py:104} INFO - [2023-10-07 15:37:08,409] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:37:08,430] {logging_mixin.py:104} INFO - [2023-10-07 15:37:08,430] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:36:00+00:00
+[2023-10-07 15:37:08,443] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.581 seconds
+[2023-10-07 15:37:39,109] {scheduler_job.py:182} INFO - Started process (PID=1862) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:39,110] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:37:39,111] {logging_mixin.py:104} INFO - [2023-10-07 15:37:39,111] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:40,588] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:37:40,615] {logging_mixin.py:104} INFO - [2023-10-07 15:37:40,614] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:37:40,638] {logging_mixin.py:104} INFO - [2023-10-07 15:37:40,638] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:36:00+00:00
+[2023-10-07 15:37:40,654] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.548 seconds
+[2023-10-07 15:38:11,236] {scheduler_job.py:182} INFO - Started process (PID=1936) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:11,238] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:38:11,238] {logging_mixin.py:104} INFO - [2023-10-07 15:38:11,238] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:12,518] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:12,543] {logging_mixin.py:104} INFO - [2023-10-07 15:38:12,541] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:38:12,561] {logging_mixin.py:104} INFO - [2023-10-07 15:38:12,561] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:37:00+00:00
+[2023-10-07 15:38:12,575] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.342 seconds
+[2023-10-07 15:38:42,896] {scheduler_job.py:182} INFO - Started process (PID=2024) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:42,898] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:38:42,899] {logging_mixin.py:104} INFO - [2023-10-07 15:38:42,899] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:44,116] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:38:44,138] {logging_mixin.py:104} INFO - [2023-10-07 15:38:44,137] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:38:44,153] {logging_mixin.py:104} INFO - [2023-10-07 15:38:44,153] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:37:00+00:00
+[2023-10-07 15:38:44,165] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.271 seconds
+[2023-10-07 15:39:14,469] {scheduler_job.py:182} INFO - Started process (PID=2113) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:14,470] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:39:14,470] {logging_mixin.py:104} INFO - [2023-10-07 15:39:14,470] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:15,769] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:15,796] {logging_mixin.py:104} INFO - [2023-10-07 15:39:15,793] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:39:15,818] {logging_mixin.py:104} INFO - [2023-10-07 15:39:15,817] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:38:00+00:00
+[2023-10-07 15:39:15,835] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.369 seconds
+[2023-10-07 15:39:46,596] {scheduler_job.py:182} INFO - Started process (PID=2191) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:46,597] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:39:46,598] {logging_mixin.py:104} INFO - [2023-10-07 15:39:46,597] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:47,838] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:39:47,860] {logging_mixin.py:104} INFO - [2023-10-07 15:39:47,859] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:39:47,877] {logging_mixin.py:104} INFO - [2023-10-07 15:39:47,876] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:38:00+00:00
+[2023-10-07 15:39:47,891] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.298 seconds
+[2023-10-07 15:40:18,291] {scheduler_job.py:182} INFO - Started process (PID=2282) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:18,292] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:40:18,293] {logging_mixin.py:104} INFO - [2023-10-07 15:40:18,293] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:19,498] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:19,518] {logging_mixin.py:104} INFO - [2023-10-07 15:40:19,517] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:40:19,534] {logging_mixin.py:104} INFO - [2023-10-07 15:40:19,534] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:39:00+00:00
+[2023-10-07 15:40:19,547] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.258 seconds
+[2023-10-07 15:40:49,925] {scheduler_job.py:182} INFO - Started process (PID=2356) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:49,926] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:40:49,926] {logging_mixin.py:104} INFO - [2023-10-07 15:40:49,926] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:51,328] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:40:51,353] {logging_mixin.py:104} INFO - [2023-10-07 15:40:51,352] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:40:51,374] {logging_mixin.py:104} INFO - [2023-10-07 15:40:51,373] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:39:00+00:00
+[2023-10-07 15:40:51,390] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.467 seconds
+[2023-10-07 15:41:22,015] {scheduler_job.py:182} INFO - Started process (PID=2442) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:22,016] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:41:22,017] {logging_mixin.py:104} INFO - [2023-10-07 15:41:22,016] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:23,194] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:23,216] {logging_mixin.py:104} INFO - [2023-10-07 15:41:23,215] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:41:23,233] {logging_mixin.py:104} INFO - [2023-10-07 15:41:23,233] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:40:00+00:00
+[2023-10-07 15:41:23,245] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.233 seconds
+[2023-10-07 15:41:54,050] {scheduler_job.py:182} INFO - Started process (PID=2532) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:54,051] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:41:54,052] {logging_mixin.py:104} INFO - [2023-10-07 15:41:54,052] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:55,289] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:41:55,316] {logging_mixin.py:104} INFO - [2023-10-07 15:41:55,314] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:41:55,333] {logging_mixin.py:104} INFO - [2023-10-07 15:41:55,332] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:40:00+00:00
+[2023-10-07 15:41:55,345] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.298 seconds
+[2023-10-07 15:42:25,815] {scheduler_job.py:182} INFO - Started process (PID=2606) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:25,816] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:42:25,817] {logging_mixin.py:104} INFO - [2023-10-07 15:42:25,817] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:27,307] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:27,332] {logging_mixin.py:104} INFO - [2023-10-07 15:42:27,331] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:42:27,350] {logging_mixin.py:104} INFO - [2023-10-07 15:42:27,350] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:41:00+00:00
+[2023-10-07 15:42:27,364] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.554 seconds
+[2023-10-07 15:42:58,050] {scheduler_job.py:182} INFO - Started process (PID=2690) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:58,052] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:42:58,053] {logging_mixin.py:104} INFO - [2023-10-07 15:42:58,053] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:59,142] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:42:59,164] {logging_mixin.py:104} INFO - [2023-10-07 15:42:59,163] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:42:59,181] {logging_mixin.py:104} INFO - [2023-10-07 15:42:59,181] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:41:00+00:00
+[2023-10-07 15:42:59,193] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.146 seconds
+[2023-10-07 15:43:29,900] {scheduler_job.py:182} INFO - Started process (PID=2775) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:43:29,901] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:43:29,901] {logging_mixin.py:104} INFO - [2023-10-07 15:43:29,901] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:43:31,150] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:43:31,173] {logging_mixin.py:104} INFO - [2023-10-07 15:43:31,172] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:43:31,190] {logging_mixin.py:104} INFO - [2023-10-07 15:43:31,190] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:42:00+00:00
+[2023-10-07 15:43:31,201] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.304 seconds
+[2023-10-07 15:44:01,356] {scheduler_job.py:182} INFO - Started process (PID=2849) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:01,357] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:44:01,357] {logging_mixin.py:104} INFO - [2023-10-07 15:44:01,357] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:02,510] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:02,529] {logging_mixin.py:104} INFO - [2023-10-07 15:44:02,528] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:44:02,547] {logging_mixin.py:104} INFO - [2023-10-07 15:44:02,547] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:43:00+00:00
+[2023-10-07 15:44:02,560] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.206 seconds
+[2023-10-07 15:44:33,260] {scheduler_job.py:182} INFO - Started process (PID=2934) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:33,260] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:44:33,261] {logging_mixin.py:104} INFO - [2023-10-07 15:44:33,261] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:34,440] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:44:34,463] {logging_mixin.py:104} INFO - [2023-10-07 15:44:34,462] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:44:34,481] {logging_mixin.py:104} INFO - [2023-10-07 15:44:34,481] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:43:00+00:00
+[2023-10-07 15:44:34,492] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.235 seconds
+[2023-10-07 15:45:05,324] {scheduler_job.py:182} INFO - Started process (PID=3009) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:05,325] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:45:05,326] {logging_mixin.py:104} INFO - [2023-10-07 15:45:05,326] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:06,492] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:06,513] {logging_mixin.py:104} INFO - [2023-10-07 15:45:06,512] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:45:06,530] {logging_mixin.py:104} INFO - [2023-10-07 15:45:06,530] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:44:00+00:00
+[2023-10-07 15:45:06,543] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.221 seconds
+[2023-10-07 15:45:37,081] {scheduler_job.py:182} INFO - Started process (PID=3093) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:37,082] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:45:37,083] {logging_mixin.py:104} INFO - [2023-10-07 15:45:37,083] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:38,204] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:45:38,225] {logging_mixin.py:104} INFO - [2023-10-07 15:45:38,224] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:45:38,242] {logging_mixin.py:104} INFO - [2023-10-07 15:45:38,241] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:44:00+00:00
+[2023-10-07 15:45:38,253] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.175 seconds
+[2023-10-07 15:46:08,919] {scheduler_job.py:182} INFO - Started process (PID=3177) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:08,920] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:46:08,921] {logging_mixin.py:104} INFO - [2023-10-07 15:46:08,921] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:10,094] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:10,116] {logging_mixin.py:104} INFO - [2023-10-07 15:46:10,115] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:46:10,134] {logging_mixin.py:104} INFO - [2023-10-07 15:46:10,133] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:45:00+00:00
+[2023-10-07 15:46:10,147] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.230 seconds
+[2023-10-07 15:46:40,784] {scheduler_job.py:182} INFO - Started process (PID=3251) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:40,785] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:46:40,786] {logging_mixin.py:104} INFO - [2023-10-07 15:46:40,786] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:41,890] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:46:41,912] {logging_mixin.py:104} INFO - [2023-10-07 15:46:41,911] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:46:41,928] {logging_mixin.py:104} INFO - [2023-10-07 15:46:41,928] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:45:00+00:00
+[2023-10-07 15:46:41,940] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.158 seconds
+[2023-10-07 15:47:12,711] {scheduler_job.py:182} INFO - Started process (PID=3335) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:12,712] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:47:12,713] {logging_mixin.py:104} INFO - [2023-10-07 15:47:12,712] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:13,907] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:13,928] {logging_mixin.py:104} INFO - [2023-10-07 15:47:13,926] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:47:13,944] {logging_mixin.py:104} INFO - [2023-10-07 15:47:13,944] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:46:00+00:00
+[2023-10-07 15:47:13,956] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.247 seconds
+[2023-10-07 15:47:44,466] {scheduler_job.py:182} INFO - Started process (PID=3419) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:44,466] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:47:44,467] {logging_mixin.py:104} INFO - [2023-10-07 15:47:44,467] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:45,616] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:47:45,637] {logging_mixin.py:104} INFO - [2023-10-07 15:47:45,636] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:47:45,654] {logging_mixin.py:104} INFO - [2023-10-07 15:47:45,654] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:46:00+00:00
+[2023-10-07 15:47:45,666] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.203 seconds
+[2023-10-07 15:48:16,005] {scheduler_job.py:182} INFO - Started process (PID=3494) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:16,007] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:48:16,008] {logging_mixin.py:104} INFO - [2023-10-07 15:48:16,008] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:17,252] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:17,276] {logging_mixin.py:104} INFO - [2023-10-07 15:48:17,275] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:48:17,293] {logging_mixin.py:104} INFO - [2023-10-07 15:48:17,293] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:47:00+00:00
+[2023-10-07 15:48:17,307] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.305 seconds
+[2023-10-07 15:48:47,861] {scheduler_job.py:182} INFO - Started process (PID=3578) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:47,862] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:48:47,862] {logging_mixin.py:104} INFO - [2023-10-07 15:48:47,862] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:48,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:48:48,985] {logging_mixin.py:104} INFO - [2023-10-07 15:48:48,984] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:48:49,001] {logging_mixin.py:104} INFO - [2023-10-07 15:48:49,000] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:47:00+00:00
+[2023-10-07 15:48:49,012] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.153 seconds
+[2023-10-07 15:49:19,677] {scheduler_job.py:182} INFO - Started process (PID=3654) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:19,678] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:49:19,679] {logging_mixin.py:104} INFO - [2023-10-07 15:49:19,679] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:20,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:20,973] {logging_mixin.py:104} INFO - [2023-10-07 15:49:20,972] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:49:20,991] {logging_mixin.py:104} INFO - [2023-10-07 15:49:20,991] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:48:00+00:00
+[2023-10-07 15:49:21,005] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.332 seconds
+[2023-10-07 15:49:51,414] {scheduler_job.py:182} INFO - Started process (PID=3738) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:51,415] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:49:51,416] {logging_mixin.py:104} INFO - [2023-10-07 15:49:51,416] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:52,686] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:49:52,708] {logging_mixin.py:104} INFO - [2023-10-07 15:49:52,707] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:49:52,725] {logging_mixin.py:104} INFO - [2023-10-07 15:49:52,725] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:48:00+00:00
+[2023-10-07 15:49:52,738] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.327 seconds
+[2023-10-07 15:50:23,406] {scheduler_job.py:182} INFO - Started process (PID=3825) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:23,407] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:50:23,408] {logging_mixin.py:104} INFO - [2023-10-07 15:50:23,408] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:24,578] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:24,599] {logging_mixin.py:104} INFO - [2023-10-07 15:50:24,598] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:50:24,615] {logging_mixin.py:104} INFO - [2023-10-07 15:50:24,615] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:49:00+00:00
+[2023-10-07 15:50:24,627] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.223 seconds
+[2023-10-07 15:50:55,132] {scheduler_job.py:182} INFO - Started process (PID=3899) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:55,133] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:50:55,134] {logging_mixin.py:104} INFO - [2023-10-07 15:50:55,134] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:56,299] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:50:56,324] {logging_mixin.py:104} INFO - [2023-10-07 15:50:56,323] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:50:56,342] {logging_mixin.py:104} INFO - [2023-10-07 15:50:56,342] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:49:00+00:00
+[2023-10-07 15:50:56,354] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.224 seconds
+[2023-10-07 15:51:26,431] {scheduler_job.py:182} INFO - Started process (PID=3985) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:26,432] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:51:26,432] {logging_mixin.py:104} INFO - [2023-10-07 15:51:26,432] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:27,582] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:27,603] {logging_mixin.py:104} INFO - [2023-10-07 15:51:27,602] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:51:27,620] {logging_mixin.py:104} INFO - [2023-10-07 15:51:27,620] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:50:00+00:00
+[2023-10-07 15:51:27,633] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.204 seconds
+[2023-10-07 15:51:58,249] {scheduler_job.py:182} INFO - Started process (PID=4069) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:58,250] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:51:58,251] {logging_mixin.py:104} INFO - [2023-10-07 15:51:58,251] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:59,514] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:51:59,539] {logging_mixin.py:104} INFO - [2023-10-07 15:51:59,537] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:51:59,558] {logging_mixin.py:104} INFO - [2023-10-07 15:51:59,558] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:50:00+00:00
+[2023-10-07 15:51:59,573] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.328 seconds
+[2023-10-07 15:52:30,302] {scheduler_job.py:182} INFO - Started process (PID=4144) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:52:30,303] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:52:30,304] {logging_mixin.py:104} INFO - [2023-10-07 15:52:30,303] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:52:31,463] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:52:31,489] {logging_mixin.py:104} INFO - [2023-10-07 15:52:31,488] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:52:31,507] {logging_mixin.py:104} INFO - [2023-10-07 15:52:31,506] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:51:00+00:00
+[2023-10-07 15:52:31,519] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.219 seconds
+[2023-10-07 15:53:02,136] {scheduler_job.py:182} INFO - Started process (PID=4229) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:02,138] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:53:02,139] {logging_mixin.py:104} INFO - [2023-10-07 15:53:02,139] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:03,441] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:03,466] {logging_mixin.py:104} INFO - [2023-10-07 15:53:03,465] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:53:03,484] {logging_mixin.py:104} INFO - [2023-10-07 15:53:03,484] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:52:00+00:00
+[2023-10-07 15:53:03,497] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.365 seconds
+[2023-10-07 15:53:34,829] {scheduler_job.py:182} INFO - Started process (PID=4319) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:34,831] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:53:34,832] {logging_mixin.py:104} INFO - [2023-10-07 15:53:34,832] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:37,988] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:53:38,010] {logging_mixin.py:104} INFO - [2023-10-07 15:53:38,009] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:53:38,027] {logging_mixin.py:104} INFO - [2023-10-07 15:53:38,027] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:52:00+00:00
+[2023-10-07 15:53:38,041] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 3.216 seconds
+[2023-10-07 15:54:08,722] {scheduler_job.py:182} INFO - Started process (PID=4517) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:08,724] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:54:08,725] {logging_mixin.py:104} INFO - [2023-10-07 15:54:08,725] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:12,001] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:12,039] {logging_mixin.py:104} INFO - [2023-10-07 15:54:12,037] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:54:12,072] {logging_mixin.py:104} INFO - [2023-10-07 15:54:12,072] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:53:00+00:00
+[2023-10-07 15:54:12,092] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 3.375 seconds
+[2023-10-07 15:54:42,907] {scheduler_job.py:182} INFO - Started process (PID=4608) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:42,908] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:54:42,908] {logging_mixin.py:104} INFO - [2023-10-07 15:54:42,908] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:43,981] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:54:44,002] {logging_mixin.py:104} INFO - [2023-10-07 15:54:44,001] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:54:44,018] {logging_mixin.py:104} INFO - [2023-10-07 15:54:44,017] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:54:00+00:00
+[2023-10-07 15:54:44,029] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.125 seconds
+[2023-10-07 15:55:14,768] {scheduler_job.py:182} INFO - Started process (PID=4705) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:14,769] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:55:14,769] {logging_mixin.py:104} INFO - [2023-10-07 15:55:14,769] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:15,771] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:15,790] {logging_mixin.py:104} INFO - [2023-10-07 15:55:15,789] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:55:15,805] {logging_mixin.py:104} INFO - [2023-10-07 15:55:15,805] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:55:00+00:00
+[2023-10-07 15:55:15,816] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.051 seconds
+[2023-10-07 15:55:46,364] {scheduler_job.py:182} INFO - Started process (PID=4790) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:46,365] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:55:46,365] {logging_mixin.py:104} INFO - [2023-10-07 15:55:46,365] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:47,399] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:55:47,420] {logging_mixin.py:104} INFO - [2023-10-07 15:55:47,419] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:55:47,436] {logging_mixin.py:104} INFO - [2023-10-07 15:55:47,436] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:55:00+00:00
+[2023-10-07 15:55:47,448] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.087 seconds
+[2023-10-07 15:56:18,156] {scheduler_job.py:182} INFO - Started process (PID=4873) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:18,157] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:56:18,158] {logging_mixin.py:104} INFO - [2023-10-07 15:56:18,157] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:19,246] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:19,266] {logging_mixin.py:104} INFO - [2023-10-07 15:56:19,265] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:56:19,282] {logging_mixin.py:104} INFO - [2023-10-07 15:56:19,281] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:56:00+00:00
+[2023-10-07 15:56:19,293] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.139 seconds
+[2023-10-07 15:56:49,934] {scheduler_job.py:182} INFO - Started process (PID=4957) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:49,935] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:56:49,935] {logging_mixin.py:104} INFO - [2023-10-07 15:56:49,935] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:51,035] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:56:51,057] {logging_mixin.py:104} INFO - [2023-10-07 15:56:51,056] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:56:51,073] {logging_mixin.py:104} INFO - [2023-10-07 15:56:51,073] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:56:00+00:00
+[2023-10-07 15:56:51,087] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.155 seconds
+[2023-10-07 15:57:21,484] {scheduler_job.py:182} INFO - Started process (PID=5050) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:21,485] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:57:21,485] {logging_mixin.py:104} INFO - [2023-10-07 15:57:21,485] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:22,494] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:22,514] {logging_mixin.py:104} INFO - [2023-10-07 15:57:22,513] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:57:22,528] {logging_mixin.py:104} INFO - [2023-10-07 15:57:22,528] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:57:00+00:00
+[2023-10-07 15:57:22,539] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.058 seconds
+[2023-10-07 15:57:52,977] {scheduler_job.py:182} INFO - Started process (PID=5124) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:52,978] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:57:52,979] {logging_mixin.py:104} INFO - [2023-10-07 15:57:52,979] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:54,108] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:57:54,130] {logging_mixin.py:104} INFO - [2023-10-07 15:57:54,129] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:57:54,146] {logging_mixin.py:104} INFO - [2023-10-07 15:57:54,146] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:57:00+00:00
+[2023-10-07 15:57:54,158] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.184 seconds
+[2023-10-07 15:58:24,625] {scheduler_job.py:182} INFO - Started process (PID=5217) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:24,626] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:58:24,626] {logging_mixin.py:104} INFO - [2023-10-07 15:58:24,626] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:25,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:25,648] {logging_mixin.py:104} INFO - [2023-10-07 15:58:25,646] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:58:25,665] {logging_mixin.py:104} INFO - [2023-10-07 15:58:25,665] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:58:00+00:00
+[2023-10-07 15:58:25,677] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.055 seconds
+[2023-10-07 15:58:56,418] {scheduler_job.py:182} INFO - Started process (PID=5301) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:56,418] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:58:56,419] {logging_mixin.py:104} INFO - [2023-10-07 15:58:56,419] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:57,513] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:58:57,531] {logging_mixin.py:104} INFO - [2023-10-07 15:58:57,530] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:58:57,545] {logging_mixin.py:104} INFO - [2023-10-07 15:58:57,545] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:58:00+00:00
+[2023-10-07 15:58:57,558] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.142 seconds
+[2023-10-07 15:59:27,963] {scheduler_job.py:182} INFO - Started process (PID=5384) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:59:27,964] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:59:27,964] {logging_mixin.py:104} INFO - [2023-10-07 15:59:27,964] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 15:59:28,952] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 15:59:28,974] {logging_mixin.py:104} INFO - [2023-10-07 15:59:28,972] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 15:59:28,990] {logging_mixin.py:104} INFO - [2023-10-07 15:59:28,990] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T15:59:00+00:00
+[2023-10-07 15:59:29,002] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.041 seconds
+[2023-10-07 15:59:59,614] {scheduler_job.py:182} INFO - Started process (PID=5468) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 15:59:59,615] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 15:59:59,616] {logging_mixin.py:104} INFO - [2023-10-07 15:59:59,616] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:00:00,649] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:00:00,670] {logging_mixin.py:104} INFO - [2023-10-07 16:00:00,669] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:00:00,708] {logging_mixin.py:104} INFO - [2023-10-07 16:00:00,708] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:00:00+00:00
+[2023-10-07 16:00:00,721] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.109 seconds
+[2023-10-07 16:00:31,204] {scheduler_job.py:182} INFO - Started process (PID=5561) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:00:31,205] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:00:31,206] {logging_mixin.py:104} INFO - [2023-10-07 16:00:31,205] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:00:32,220] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:00:32,241] {logging_mixin.py:104} INFO - [2023-10-07 16:00:32,240] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:00:32,255] {logging_mixin.py:104} INFO - [2023-10-07 16:00:32,255] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:00:00+00:00
+[2023-10-07 16:00:32,268] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.066 seconds
+[2023-10-07 16:01:02,781] {scheduler_job.py:182} INFO - Started process (PID=5639) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:02,782] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:01:02,782] {logging_mixin.py:104} INFO - [2023-10-07 16:01:02,782] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:04,078] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:04,100] {logging_mixin.py:104} INFO - [2023-10-07 16:01:04,098] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:01:04,115] {logging_mixin.py:104} INFO - [2023-10-07 16:01:04,115] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:01:00+00:00
+[2023-10-07 16:01:04,126] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.348 seconds
+[2023-10-07 16:01:34,624] {scheduler_job.py:182} INFO - Started process (PID=5728) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:34,625] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:01:34,625] {logging_mixin.py:104} INFO - [2023-10-07 16:01:34,625] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:35,612] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:01:35,634] {logging_mixin.py:104} INFO - [2023-10-07 16:01:35,633] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:01:35,648] {logging_mixin.py:104} INFO - [2023-10-07 16:01:35,648] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:01:00+00:00
+[2023-10-07 16:01:35,660] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.038 seconds
+[2023-10-07 16:02:06,225] {scheduler_job.py:182} INFO - Started process (PID=5822) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:06,226] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:02:06,226] {logging_mixin.py:104} INFO - [2023-10-07 16:02:06,226] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:07,275] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:07,294] {logging_mixin.py:104} INFO - [2023-10-07 16:02:07,293] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:02:07,308] {logging_mixin.py:104} INFO - [2023-10-07 16:02:07,308] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:02:00+00:00
+[2023-10-07 16:02:07,320] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.098 seconds
+[2023-10-07 16:02:37,779] {scheduler_job.py:182} INFO - Started process (PID=5898) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:37,779] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:02:37,780] {logging_mixin.py:104} INFO - [2023-10-07 16:02:37,780] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:38,766] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:02:38,786] {logging_mixin.py:104} INFO - [2023-10-07 16:02:38,784] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:02:38,801] {logging_mixin.py:104} INFO - [2023-10-07 16:02:38,801] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:02:00+00:00
+[2023-10-07 16:02:38,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.036 seconds
+[2023-10-07 16:03:09,628] {scheduler_job.py:182} INFO - Started process (PID=5994) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:09,630] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:03:09,630] {logging_mixin.py:104} INFO - [2023-10-07 16:03:09,630] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:10,616] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:10,639] {logging_mixin.py:104} INFO - [2023-10-07 16:03:10,638] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:03:10,654] {logging_mixin.py:104} INFO - [2023-10-07 16:03:10,654] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:03:00+00:00
+[2023-10-07 16:03:10,665] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.039 seconds
+[2023-10-07 16:03:41,152] {scheduler_job.py:182} INFO - Started process (PID=6078) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:41,154] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:03:41,154] {logging_mixin.py:104} INFO - [2023-10-07 16:03:41,154] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:42,261] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:03:42,284] {logging_mixin.py:104} INFO - [2023-10-07 16:03:42,283] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:03:42,300] {logging_mixin.py:104} INFO - [2023-10-07 16:03:42,300] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:03:00+00:00
+[2023-10-07 16:03:42,315] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.165 seconds
+[2023-10-07 16:04:12,984] {scheduler_job.py:182} INFO - Started process (PID=6163) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:12,985] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:04:12,986] {logging_mixin.py:104} INFO - [2023-10-07 16:04:12,986] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:13,982] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:14,001] {logging_mixin.py:104} INFO - [2023-10-07 16:04:14,000] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:04:14,015] {logging_mixin.py:104} INFO - [2023-10-07 16:04:14,015] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:04:00+00:00
+[2023-10-07 16:04:14,027] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.046 seconds
+[2023-10-07 16:04:44,547] {scheduler_job.py:182} INFO - Started process (PID=6247) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:44,548] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:04:44,549] {logging_mixin.py:104} INFO - [2023-10-07 16:04:44,549] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:45,599] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:04:45,620] {logging_mixin.py:104} INFO - [2023-10-07 16:04:45,619] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:04:45,635] {logging_mixin.py:104} INFO - [2023-10-07 16:04:45,635] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:04:00+00:00
+[2023-10-07 16:04:45,648] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.103 seconds
+[2023-10-07 16:05:16,237] {scheduler_job.py:182} INFO - Started process (PID=6340) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:16,238] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:05:16,239] {logging_mixin.py:104} INFO - [2023-10-07 16:05:16,239] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:17,227] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:17,249] {logging_mixin.py:104} INFO - [2023-10-07 16:05:17,247] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:05:17,263] {logging_mixin.py:104} INFO - [2023-10-07 16:05:17,263] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:05:00+00:00
+[2023-10-07 16:05:17,275] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.040 seconds
+[2023-10-07 16:05:47,929] {scheduler_job.py:182} INFO - Started process (PID=6414) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:47,930] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:05:47,930] {logging_mixin.py:104} INFO - [2023-10-07 16:05:47,930] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:48,968] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:05:48,988] {logging_mixin.py:104} INFO - [2023-10-07 16:05:48,987] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:05:49,005] {logging_mixin.py:104} INFO - [2023-10-07 16:05:49,005] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:05:00+00:00
+[2023-10-07 16:05:49,019] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.091 seconds
+[2023-10-07 16:06:19,420] {scheduler_job.py:182} INFO - Started process (PID=6507) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:19,420] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:06:19,421] {logging_mixin.py:104} INFO - [2023-10-07 16:06:19,421] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:20,406] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:20,428] {logging_mixin.py:104} INFO - [2023-10-07 16:06:20,426] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:06:20,442] {logging_mixin.py:104} INFO - [2023-10-07 16:06:20,442] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:06:00+00:00
+[2023-10-07 16:06:20,453] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.036 seconds
+[2023-10-07 16:06:51,072] {scheduler_job.py:182} INFO - Started process (PID=6591) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:51,073] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:06:51,074] {logging_mixin.py:104} INFO - [2023-10-07 16:06:51,074] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:52,156] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:06:52,177] {logging_mixin.py:104} INFO - [2023-10-07 16:06:52,176] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:06:52,192] {logging_mixin.py:104} INFO - [2023-10-07 16:06:52,191] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:06:00+00:00
+[2023-10-07 16:06:52,203] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.134 seconds
+[2023-10-07 16:07:22,252] {scheduler_job.py:182} INFO - Started process (PID=6683) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:22,252] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:07:22,253] {logging_mixin.py:104} INFO - [2023-10-07 16:07:22,253] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:23,289] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:23,311] {logging_mixin.py:104} INFO - [2023-10-07 16:07:23,310] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:07:23,326] {logging_mixin.py:104} INFO - [2023-10-07 16:07:23,326] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:07:00+00:00
+[2023-10-07 16:07:23,337] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.088 seconds
+[2023-10-07 16:07:53,531] {scheduler_job.py:182} INFO - Started process (PID=6769) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:53,534] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:07:53,535] {logging_mixin.py:104} INFO - [2023-10-07 16:07:53,535] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:54,556] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:07:54,574] {logging_mixin.py:104} INFO - [2023-10-07 16:07:54,573] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:07:54,590] {logging_mixin.py:104} INFO - [2023-10-07 16:07:54,589] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:07:00+00:00
+[2023-10-07 16:07:54,600] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.074 seconds
+[2023-10-07 16:08:25,201] {scheduler_job.py:182} INFO - Started process (PID=6866) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:25,202] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:08:25,203] {logging_mixin.py:104} INFO - [2023-10-07 16:08:25,202] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:26,202] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:26,223] {logging_mixin.py:104} INFO - [2023-10-07 16:08:26,222] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:08:26,238] {logging_mixin.py:104} INFO - [2023-10-07 16:08:26,238] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:08:00+00:00
+[2023-10-07 16:08:26,248] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.050 seconds
+[2023-10-07 16:08:56,920] {scheduler_job.py:182} INFO - Started process (PID=6942) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:56,921] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:08:56,922] {logging_mixin.py:104} INFO - [2023-10-07 16:08:56,922] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:57,897] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:08:57,916] {logging_mixin.py:104} INFO - [2023-10-07 16:08:57,915] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:08:57,930] {logging_mixin.py:104} INFO - [2023-10-07 16:08:57,930] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:08:00+00:00
+[2023-10-07 16:08:57,941] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.023 seconds
+[2023-10-07 16:09:28,468] {scheduler_job.py:182} INFO - Started process (PID=7035) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:09:28,469] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:09:28,470] {logging_mixin.py:104} INFO - [2023-10-07 16:09:28,470] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:09:29,448] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:09:29,468] {logging_mixin.py:104} INFO - [2023-10-07 16:09:29,467] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:09:29,484] {logging_mixin.py:104} INFO - [2023-10-07 16:09:29,484] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:09:00+00:00
+[2023-10-07 16:09:29,497] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.031 seconds
+[2023-10-07 16:10:00,022] {scheduler_job.py:182} INFO - Started process (PID=7119) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:00,023] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:10:00,024] {logging_mixin.py:104} INFO - [2023-10-07 16:10:00,024] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:01,110] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:01,133] {logging_mixin.py:104} INFO - [2023-10-07 16:10:01,131] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:10:01,150] {logging_mixin.py:104} INFO - [2023-10-07 16:10:01,150] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:10:00+00:00
+[2023-10-07 16:10:01,162] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.142 seconds
+[2023-10-07 16:10:31,818] {scheduler_job.py:182} INFO - Started process (PID=7206) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:31,819] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:10:31,820] {logging_mixin.py:104} INFO - [2023-10-07 16:10:31,820] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:32,888] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:10:32,910] {logging_mixin.py:104} INFO - [2023-10-07 16:10:32,909] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:10:32,924] {logging_mixin.py:104} INFO - [2023-10-07 16:10:32,924] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:10:00+00:00
+[2023-10-07 16:10:32,936] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.120 seconds
+[2023-10-07 16:11:03,637] {scheduler_job.py:182} INFO - Started process (PID=7297) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:03,638] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:11:03,638] {logging_mixin.py:104} INFO - [2023-10-07 16:11:03,638] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:04,706] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:04,729] {logging_mixin.py:104} INFO - [2023-10-07 16:11:04,728] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:11:04,746] {logging_mixin.py:104} INFO - [2023-10-07 16:11:04,745] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:11:00+00:00
+[2023-10-07 16:11:04,757] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.123 seconds
+[2023-10-07 16:11:35,250] {scheduler_job.py:182} INFO - Started process (PID=7387) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:35,251] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:11:35,251] {logging_mixin.py:104} INFO - [2023-10-07 16:11:35,251] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:36,268] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:11:36,287] {logging_mixin.py:104} INFO - [2023-10-07 16:11:36,286] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:11:36,303] {logging_mixin.py:104} INFO - [2023-10-07 16:11:36,303] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:11:00+00:00
+[2023-10-07 16:11:36,315] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.068 seconds
+[2023-10-07 16:12:06,984] {scheduler_job.py:182} INFO - Started process (PID=7470) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:06,985] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:12:06,985] {logging_mixin.py:104} INFO - [2023-10-07 16:12:06,985] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:08,010] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:08,030] {logging_mixin.py:104} INFO - [2023-10-07 16:12:08,029] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:12:08,044] {logging_mixin.py:104} INFO - [2023-10-07 16:12:08,043] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:12:00+00:00
+[2023-10-07 16:12:08,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.071 seconds
+[2023-10-07 16:12:38,545] {scheduler_job.py:182} INFO - Started process (PID=7554) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:38,546] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:12:38,547] {logging_mixin.py:104} INFO - [2023-10-07 16:12:38,546] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:39,635] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:12:39,656] {logging_mixin.py:104} INFO - [2023-10-07 16:12:39,655] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:12:39,672] {logging_mixin.py:104} INFO - [2023-10-07 16:12:39,671] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:12:00+00:00
+[2023-10-07 16:12:39,684] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.141 seconds
+[2023-10-07 16:13:10,322] {scheduler_job.py:182} INFO - Started process (PID=7647) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:10,323] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:13:10,324] {logging_mixin.py:104} INFO - [2023-10-07 16:13:10,324] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:11,384] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:11,405] {logging_mixin.py:104} INFO - [2023-10-07 16:13:11,404] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:13:11,422] {logging_mixin.py:104} INFO - [2023-10-07 16:13:11,422] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:13:00+00:00
+[2023-10-07 16:13:11,434] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.114 seconds
+[2023-10-07 16:13:41,897] {scheduler_job.py:182} INFO - Started process (PID=7721) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:41,898] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:13:41,899] {logging_mixin.py:104} INFO - [2023-10-07 16:13:41,898] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:42,941] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:13:42,961] {logging_mixin.py:104} INFO - [2023-10-07 16:13:42,960] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:13:42,976] {logging_mixin.py:104} INFO - [2023-10-07 16:13:42,976] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:13:00+00:00
+[2023-10-07 16:13:42,989] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.095 seconds
+[2023-10-07 16:14:13,524] {scheduler_job.py:182} INFO - Started process (PID=7814) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:13,524] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:14:13,525] {logging_mixin.py:104} INFO - [2023-10-07 16:14:13,525] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:14,498] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:14,516] {logging_mixin.py:104} INFO - [2023-10-07 16:14:14,515] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:14:14,531] {logging_mixin.py:104} INFO - [2023-10-07 16:14:14,531] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:14:00+00:00
+[2023-10-07 16:14:14,541] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.020 seconds
+[2023-10-07 16:14:44,885] {scheduler_job.py:182} INFO - Started process (PID=7899) to work on /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:44,885] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/DAG.py for tasks to queue
+[2023-10-07 16:14:44,886] {logging_mixin.py:104} INFO - [2023-10-07 16:14:44,886] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:45,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['airflow_exam']) retrieved from /opt/airflow/dags/DAG.py
+[2023-10-07 16:14:45,884] {logging_mixin.py:104} INFO - [2023-10-07 16:14:45,883] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-10-07 16:14:45,900] {logging_mixin.py:104} INFO - [2023-10-07 16:14:45,900] {dag.py:2306} INFO - Setting next_dagrun for airflow_exam to 2023-10-07T16:14:00+00:00
+[2023-10-07 16:14:45,911] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/DAG.py took 1.028 seconds

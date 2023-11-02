@@ -1,0 +1,34 @@
+[2023-10-06 19:19:34,985] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.transform_into_fulldata.csv 2023-10-06T19:18:00+00:00 [queued]>
+[2023-10-06 19:19:35,005] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.transform_into_fulldata.csv 2023-10-06T19:18:00+00:00 [queued]>
+[2023-10-06 19:19:35,005] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2023-10-06 19:19:35,005] {taskinstance.py:1088} INFO - Starting attempt 1 of 1
+[2023-10-06 19:19:35,006] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2023-10-06 19:19:35,025] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): transform_into_fulldata.csv> on 2023-10-06T19:18:00+00:00
+[2023-10-06 19:19:35,034] {standard_task_runner.py:52} INFO - Started process 3283 to run task
+[2023-10-06 19:19:35,040] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', '***_exam', 'transform_into_fulldata.csv', '2023-10-06T19:18:00+00:00', '--job-id', '371', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmp010u5ba9', '--error-file', '/tmp/tmpeicb7g__']
+[2023-10-06 19:19:35,040] {standard_task_runner.py:77} INFO - Job 371: Subtask transform_into_fulldata.csv
+[2023-10-06 19:19:35,100] {logging_mixin.py:104} INFO - Running <TaskInstance: ***_exam.transform_into_fulldata.csv 2023-10-06T19:18:00+00:00 [running]> on host 3a3d0401ac26
+[2023-10-06 19:19:35,219] {taskinstance.py:1302} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=***_exam
+AIRFLOW_CTX_TASK_ID=transform_into_fulldata.csv
+AIRFLOW_CTX_EXECUTION_DATE=2023-10-06T19:18:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-10-06T19:18:00+00:00
+[2023-10-06 19:19:35,231] {logging_mixin.py:104} INFO - 
+[2023-10-06 19:19:35,260] {logging_mixin.py:104} INFO -     temperature        city  pression              date
+0       289.07       Paris      1026  2023-10-06 19:19
+1       290.46      London      1023  2023-10-06 19:19
+2       291.89  Washington      1025  2023-10-06 19:19
+3       295.70       Paris      1025  2023-10-06 14:25
+4       294.37      London      1023  2023-10-06 14:25
+5       283.28  Washington      1027  2023-10-06 14:25
+6       295.70       Paris      1025  2023-10-06 14:24
+7       294.37      London      1023  2023-10-06 14:24
+8       283.28  Washington      1027  2023-10-06 14:24
+9       295.70       Paris      1025  2023-10-06 14:23
+[2023-10-06 19:19:35,264] {python.py:151} INFO - Done. Returned value was: None
+[2023-10-06 19:19:35,281] {taskinstance.py:1211} INFO - Marking task as SUCCESS. dag_id=***_exam, task_id=transform_into_fulldata.csv, execution_date=20231006T191800, start_date=20231006T191934, end_date=20231006T191935
+[2023-10-06 19:19:35,320] {taskinstance.py:1265} INFO - 3 downstream tasks scheduled from follow-on schedule check
+[2023-10-06 19:19:35,371] {local_task_job.py:151} INFO - Task exited with return code 0
