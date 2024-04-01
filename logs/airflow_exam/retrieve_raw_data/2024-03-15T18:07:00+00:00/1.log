@@ -1,0 +1,22 @@
+[2024-03-15 18:08:02,095] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.retrieve_raw_data 2024-03-15T18:07:00+00:00 [queued]>
+[2024-03-15 18:08:02,118] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.retrieve_raw_data 2024-03-15T18:07:00+00:00 [queued]>
+[2024-03-15 18:08:02,118] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-15 18:08:02,118] {taskinstance.py:1088} INFO - Starting attempt 1 of 6
+[2024-03-15 18:08:02,118] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-15 18:08:02,131] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): retrieve_raw_data> on 2024-03-15T18:07:00+00:00
+[2024-03-15 18:08:02,140] {standard_task_runner.py:52} INFO - Started process 42055 to run task
+[2024-03-15 18:08:02,143] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', '***_exam', 'retrieve_raw_data', '2024-03-15T18:07:00+00:00', '--job-id', '3207', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmphs5v9_xy', '--error-file', '/tmp/tmp9d6q8jsr']
+[2024-03-15 18:08:02,144] {standard_task_runner.py:77} INFO - Job 3207: Subtask retrieve_raw_data
+[2024-03-15 18:08:02,198] {logging_mixin.py:104} INFO - Running <TaskInstance: ***_exam.retrieve_raw_data 2024-03-15T18:07:00+00:00 [running]> on host 3a3d0401ac26
+[2024-03-15 18:08:02,273] {taskinstance.py:1302} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=***_exam
+AIRFLOW_CTX_TASK_ID=retrieve_raw_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-03-15T18:07:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-03-15T18:07:00+00:00
+[2024-03-15 18:08:02,810] {python.py:151} INFO - Done. Returned value was: None
+[2024-03-15 18:08:02,823] {taskinstance.py:1211} INFO - Marking task as SUCCESS. dag_id=***_exam, task_id=retrieve_raw_data, execution_date=20240315T180700, start_date=20240315T180802, end_date=20240315T180802
+[2024-03-15 18:08:02,863] {taskinstance.py:1265} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2024-03-15 18:08:02,878] {local_task_job.py:151} INFO - Task exited with return code 0

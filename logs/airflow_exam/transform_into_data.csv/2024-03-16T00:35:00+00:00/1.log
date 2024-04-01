@@ -1,0 +1,34 @@
+[2024-03-16 00:36:06,816] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.transform_into_data.csv 2024-03-16T00:35:00+00:00 [queued]>
+[2024-03-16 00:36:06,874] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.transform_into_data.csv 2024-03-16T00:35:00+00:00 [queued]>
+[2024-03-16 00:36:06,874] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-16 00:36:06,874] {taskinstance.py:1088} INFO - Starting attempt 1 of 1
+[2024-03-16 00:36:06,874] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-16 00:36:06,906] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): transform_into_data.csv> on 2024-03-16T00:35:00+00:00
+[2024-03-16 00:36:06,935] {standard_task_runner.py:52} INFO - Started process 103419 to run task
+[2024-03-16 00:36:06,946] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', '***_exam', 'transform_into_data.csv', '2024-03-16T00:35:00+00:00', '--job-id', '5324', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmpfekys0x0', '--error-file', '/tmp/tmp2guz1y4j']
+[2024-03-16 00:36:06,947] {standard_task_runner.py:77} INFO - Job 5324: Subtask transform_into_data.csv
+[2024-03-16 00:36:07,061] {logging_mixin.py:104} INFO - Running <TaskInstance: ***_exam.transform_into_data.csv 2024-03-16T00:35:00+00:00 [running]> on host 3a3d0401ac26
+[2024-03-16 00:36:07,302] {taskinstance.py:1302} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=***_exam
+AIRFLOW_CTX_TASK_ID=transform_into_data.csv
+AIRFLOW_CTX_EXECUTION_DATE=2024-03-16T00:35:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-03-16T00:35:00+00:00
+[2024-03-16 00:36:07,325] {logging_mixin.py:104} INFO - 
+[2024-03-16 00:36:07,362] {logging_mixin.py:104} INFO -     temperature        city  pression              date
+0       284.51       Paris      1016  2024-03-16 00:36
+1       281.41      London      1013  2024-03-16 00:36
+2       287.66  Washington      1021  2024-03-16 00:36
+3       284.51       Paris      1016  2024-03-16 00:35
+4       281.41      London      1013  2024-03-16 00:35
+5       288.82  Washington      1021  2024-03-16 00:35
+6       284.51       Paris      1016  2024-03-16 00:34
+7       281.41      London      1013  2024-03-16 00:34
+8       288.82  Washington      1021  2024-03-16 00:34
+9       284.51       Paris      1016  2024-03-16 00:33
+[2024-03-16 00:36:07,369] {python.py:151} INFO - Done. Returned value was: None
+[2024-03-16 00:36:07,411] {taskinstance.py:1211} INFO - Marking task as SUCCESS. dag_id=***_exam, task_id=transform_into_data.csv, execution_date=20240316T003500, start_date=20240316T003606, end_date=20240316T003607
+[2024-03-16 00:36:07,490] {taskinstance.py:1265} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-03-16 00:36:07,511] {local_task_job.py:151} INFO - Task exited with return code 0

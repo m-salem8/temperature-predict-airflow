@@ -1,0 +1,11 @@
+[2024-03-16 04:07:22,517] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.train_best_model 2024-03-16T04:06:00+00:00 [queued]>
+[2024-03-16 04:07:22,549] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: airflow_exam.train_best_model 2024-03-16T04:06:00+00:00 [queued]>
+[2024-03-16 04:07:22,549] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-16 04:07:22,549] {taskinstance.py:1088} INFO - Starting attempt 1 of 1
+[2024-03-16 04:07:22,549] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2024-03-16 04:07:22,563] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): train_best_model> on 2024-03-16T04:06:00+00:00
+[2024-03-16 04:07:22,573] {standard_task_runner.py:52} INFO - Started process 148677 to run task
+[2024-03-16 04:07:22,578] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', '***_exam', 'train_best_model', '2024-03-16T04:06:00+00:00', '--job-id', '6805', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/DAG.py', '--cfg-path', '/tmp/tmp7jib641b', '--error-file', '/tmp/tmp_bbzo7kk']
+[2024-03-16 04:07:22,579] {standard_task_runner.py:77} INFO - Job 6805: Subtask train_best_model
